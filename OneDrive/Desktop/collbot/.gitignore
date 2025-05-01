@@ -1,0 +1,12 @@
+# Ignore system files and folders
+AppData/
+Documents/
+Downloads/
+OneDrive/
+.vscode/
+.eclipse/
+.ssh/
+.node_repl_history/
+*.log
+*.pyc
+__pycache__/
