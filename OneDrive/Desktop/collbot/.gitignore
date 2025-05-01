@@ -10,3 +10,4 @@ OneDrive/
 *.log
 *.pyc
 __pycache__/
+.env
